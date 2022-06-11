@@ -1,2 +1,2 @@
 # java-projects
-core java, advanced java, jdbc, servlets, JSp, sprinboot and hibernate
+core java, advanced java, jdbc, servlets, JSP, springboot and hibernate
